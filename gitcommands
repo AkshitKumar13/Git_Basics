@@ -1,0 +1,9 @@
+                                              Git Commands
+
+
+git init- it is used to initialize an empty repository.
+git add . - it is used to add all files in the staging area.
+git status-  it is used to check the status of a file.
+git commit -m “message ” - it is used to create a snapshot of the staged changes along a                       timeline of a Git project's history.
+git log - used to check the history of project.
+
